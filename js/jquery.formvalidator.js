@@ -102,7 +102,7 @@
 					$( o.attachNotificationElement ).append(
 						$('<div />', {
 							'class' : o.notificationClass,
-							html : 'Please review form, somethings may have been left blank'
+							html : 'Please review form.'
 						})
 					);
 					
